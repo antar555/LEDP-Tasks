@@ -1,0 +1,32 @@
+p{
+    color: black;
+}
+p span{
+    color: greenyellow;
+}
+p span:nth-child(2){
+    color: green;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+p span:nth-child(3){
+    color: khaki;
+
+}
+p span:nth-child(4){
+    color: blue;
+}
+p span:nth-child(5){
+    color: yellow;
+}
+p span:nth-child(6){
+    color: red;
+}
+p span:nth-child(7){
+    color: violet;
+}
+
+p span mark{
+    color:greenyellow;
+}
